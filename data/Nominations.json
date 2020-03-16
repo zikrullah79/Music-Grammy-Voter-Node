@@ -1,0 +1,1064 @@
+{
+    "status":1,
+    "message" : "Succesfully get Data",
+    "data" : [
+        {
+            "id" : 1,
+            "name" : "Album of The Year",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "Keung",
+                    "singer" : "C Jamm",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i2.wp.com/www.dkhhrnb.com/wp-content/uploads/2019/06/cjamm_n-e1560384971496.jpg?resize=743%2C400"
+                },
+                {
+                    "id" : 2,
+                    "name" : "GENERASIAN",
+                    "singer" : "Lim Kim",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://thegoodtheweird.files.wordpress.com/2020/01/be7bb-generasian-lim-kim.jpg?w=1000&h=1000"
+                },
+                {
+                    "id" : 3,
+                    "name" : "THIRSTY",
+                    "singer" : "The Black Skirts",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i1.wp.com/www.koreanindie.com/wp-content/uploads/2019/08/the-black-skirts-thirsty.jpg?fit=1000%2C1000&ssl=1"
+                },
+                {
+                    "id" : 4,
+                    "name" : "Our Love Is Great",
+                    "singer" : "Baek Yerin",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i0.wp.com/www.koreanesia.com/wp-content/uploads/2019/03/6-1-5.jpg?fit=1280%2C856&ssl=1"
+                },
+                {
+                    "id" : 5,
+                    "name" : "Legend",
+                    "singer" : "Jannabi",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i1.wp.com/www.koreanindie.com/wp-content/uploads/2019/05/Jannabi_Legend.jpg?fit=1000%2C1000&ssl=1"
+                }
+            ]
+        },
+		{
+            "id" : 2,
+            "name" : "Song of The Year",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "How Can I Love the Heartbreak, You're The One I Love",
+                    "singer" : "AKMU",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://6.viki.io/image/fc384648946f42ca9bf04f99b885f71c.jpeg?s=900x600&e=t"
+                },
+                {
+                    "id" : 2,
+                    "name" : "SAL-KI",
+                    "singer" : "Lim Kim",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://images.genius.com/6d18e9d3da815277af74029a9d03368e.1000x1000x1.png"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Boy With Luv",
+                    "singer" : "BTS",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/abccf770-4d24-48b7-beca-ae19f35d9422/dd4eh3p-898fee7e-c7f5-4e42-bc5d-8bcacc8a0caf.jpg/v1/fill/w_900,h_507,q_75,strp/bts_boy_with_luv___wallpaper_by_yuyo8812_dd4eh3p-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA3IiwicGF0aCI6IlwvZlwvYWJjY2Y3NzAtNGQyNC00OGI3LWJlY2EtYWUxOWYzNWQ5NDIyXC9kZDRlaDNwLTg5OGZlZTdlLWM3ZjUtNGU0Mi1iYzVkLThiY2FjYzhhMGNhZi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.F8Bp42WC5ksTK8KHf_EfojsjamrVRr9D35kh7ru3SL4"
+                },
+                {
+                    "id" : 4,
+                    "name" : "Maybe It's Not Our Fault",
+                    "singer" : "Baek Yerin",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://4.bp.blogspot.com/-IX1NOecZRXc/XJEKsiDKw8I/AAAAAAAADGs/p2ynP5KbTxc0lV3H9DpQooLBrNniuhXxwCLcBGAs/w1280-h720-p-k-no-nu/yerin.jpg"
+                },
+                {
+                    "id" : 5,
+                    "name" : "For Lovers Who Hesitate",
+                    "singer" : "Jannabi",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/xHAV174JWNs/maxresdefault.jpg"
+                }
+            ]
+		},
+		{
+            "id" : 3,
+            "name" : "Artist of The Year",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "",
+                    "singer" : "Lim Kim",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://upload.wikimedia.org/wikipedia/commons/5/5c/Kim_Ye-Lim_in_2013.jpg"
+                },
+                {
+                    "id" : 2,
+                    "name" : "",
+                    "singer" : "Kim Oki",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/62/cd/b6/62cdb6d4-a0b0-83dd-588f-87862c6cc913/pr_source.png/800x800bb.jpeg"
+                },
+                {
+                    "id" : 3,
+                    "name" : "",
+                    "singer" : "Kim Hyun Chul",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://www.hancinema.net/photos/fullsizephoto857720.jpg"
+                },
+                {
+                    "id" : 4,
+                    "name" : "",
+                    "singer" : "BTS",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2019/10/Blog_Profil-Biodata-Lengkap-BTS-serta-Fakta-Menarik-Personelnya.jpg"
+                },
+                {
+                    "id" : 5,
+                    "name" : "",
+                    "singer" : "Baek Yerin",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://cdn.idntimes.com/content-images/community/2019/03/baekyerin2-7468-1ffa98d5a60166bd5a89d3e9c5b07f79_600x400.jpg"
+                },
+				{
+                    "id" : 6,
+                    "name" : "",
+                    "singer" : "Jannabi",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://cdn.idntimes.com/content-images/community/2019/11/64678087-647017272479631-7777763036330067439-n-c6653d28f2f7e7813547b90aec241a8a_600x400.jpg"
+                }
+            ]
+		},
+		{
+            "id" : 4,
+            "name" : "Rookie of The Year",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "",
+                    "singer" : "ITZY",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://cdn1-production-images-kly.akamaized.net/WX06vxycIeMKwJaNwMIDDs5N45g=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2867296/original/058551600_1564454946-itzy.jpg"
+                },
+                {
+                    "id" : 2,
+                    "name" : "",
+                    "singer" : "NET GALA",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i1.sndcdn.com/avatars-000571242351-64wn56-t500x500.jpg"
+                },
+                {
+                    "id" : 3,
+                    "name" : "",
+                    "singer" : "sogumm",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://www.generasia.com/w/images/thumb/2/2e/sogumm_-_Sobrightttttttt_promo.jpg/450px-sogumm_-_Sobrightttttttt_promo.jpg"
+                },
+                {
+                    "id" : 4,
+                    "name" : "",
+                    "singer" : "Lee Joo Young",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://asset.kompas.com/crops/6pLh9MEUEucYxrLw2h2Ny3KdVow=/0x8:514x351/750x500/data/photo/2020/02/18/5e4b7a8286a4c.jpg"
+                },
+                {
+                    "id" : 5,
+                    "name" : "",
+                    "singer" : "Chun Yongsung",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/8ALHIZAta7s/maxresdefault.jpg"
+                }
+            ]
+		},
+		{
+            "id" : 5,
+            "name" : "Best Pop Album",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "SAILING",
+                    "singer" : "AKMU",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://www.wowkeren.com/display/images/photo/2019/09/16/00273271.jpg"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Sail",
+                    "singer" : "Kim Hyun Chul",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://images-na.ssl-images-amazon.com/images/I/41kAjXzRJ4L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_.jpg"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Our Love Is Great",
+                    "singer" : "Baek Yerin",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i0.wp.com/www.koreanesia.com/wp-content/uploads/2019/03/6-1-5.jpg?fit=1280%2C856&ssl=1"
+                },
+                {
+                    "id" : 4,
+                    "name" : "Far from The Madding City",
+                    "singer" : "Oohyo",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.scdn.co/image/ab67616d0000b273af5e71f8dd2b167b75d7a61b"
+                },
+                {
+                    "id" : 5,
+                    "name" : "Purpose",
+                    "singer" : "Taeyeon",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.allkpop.com%2Farticle%2F2020%2F01%2Fgirls-generations-taeyeon-reveals-teaser-images-for-purpose-repackage-album&psig=AOvVaw1NaiK-QwnQ94j97Gaji8Hi&ust=1584370769140000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDGtZ7fnOgCFQAAAAAdAAAAABAD"
+                },
+				{
+                    "id" : 6,
+                    "name" : "Dream",
+                    "singer" : "Cacophony",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://1.bp.blogspot.com/-0IE0tR4g-EA/XcVu7fcg6uI/AAAAAAAABQg/Z-PeEjywZvI-IpIrSbZRup1mtkDCvwQLACEwYBhgL/s1600/cacophony%2B%25E2%2580%2593%2BDream.jpg"
+                }
+            ]
+		},
+		{
+            "id" : 6,
+            "name" : "Best Pop Song",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "How Can I Love Heartbreak, You're the One I Love",
+                    "singer" : "AKMU",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://6.viki.io/image/fc384648946f42ca9bf04f99b885f71c.jpeg?s=900x600&e=t"
+                },
+                {
+                    "id" : 2,
+                    "name" : "DALLA DALLA",
+                    "singer" : "ITZY",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://img.okeinfo.net/content/2019/02/12/205/2016948/ditonton-25-juta-kali-dalla-dalla-dari-itzy-trending-di-youtube-VVOpQZhbtd.jpg"
+                },
+                {
+                    "id" : 3,
+                    "name" : "LION",
+                    "singer" : "(G)I-DLE",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/ju0ICWFWNKE/maxresdefault.jpg"
+                },
+                {
+                    "id" : 4,
+                    "name" : "Boy With Luv",
+                    "singer" : "BTS",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/Wbr_B0ZGg1g/maxresdefault.jpg"
+                },
+                {
+                    "id" : 5,
+                    "name" : "Maybe It's Not Our Fault",
+                    "singer" : "Baek Yerin",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://4.bp.blogspot.com/-IX1NOecZRXc/XJEKsiDKw8I/AAAAAAAADGs/p2ynP5KbTxc0lV3H9DpQooLBrNniuhXxwCLcBGAs/w1280-h720-p-k-no-nu/yerin.jpg"
+                }
+            ]
+		},
+		{
+            "id" : 7,
+            "name" : "Best Rock Album",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "If We Live Without Romance",
+                    "singer" : "The Bowls",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.kfs.io/album/global/31031915,0v1/fit/500x500.jpg"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Moraenae Fantasy",
+                    "singer" : "Goonam",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://gd.image-gmkt.com/K-POP-GOONAMGUAYEORIDINGSTELLA-GOONAM-MORAENAE-FANTASY-4TH-ALBUM/li/808/158/1304158808.g_400-w_g.jpg"
+                },
+                {
+                    "id" : 3,
+                    "name" : "EVOLUTION",
+                    "singer" : "Black Hole",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkQXuEo1ndBmMHL-EEj91ZLWuSBftELWHAEvi2OwKQDupGPDdR"
+                },
+                {
+                    "id" : 4,
+                    "name" : "Oh, Two Animals",
+                    "singer" : "Oh Chill",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/1CryiT-Skis/maxresdefault.jpg"
+                },
+                {
+                    "id" : 5,
+                    "name" : "ONDA",
+                    "singer" : "Jambinai",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://f4.bcbits.com/img/0018110463_16.jpg"
+                },
+				{
+                    "id" : 6,
+                    "name" : "999",
+                    "singer" : "National Pigeon Unity",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSQulyZL2MVw&psig=AOvVaw3JdaSb6H_D6A_dA7c5HRyL&ust=1584371000293000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjm44ngnOgCFQAAAAAdAAAAABAD"
+                }
+            ]
+		},
+		{
+            "id" : 8,
+            "name" : "Best Rock Song",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "ONDA",
+                    "singer" : "Jambinai",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://f4.bcbits.com/img/0018110463_16.jpg"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Same Same",
+                    "singer" : "National Pigeon Unity",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/pdTkEyPEVg4/maxresdefault.jpg"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Chocolate Milk",
+                    "singer" : "SONIC STONES",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/cGY20ov9tD8/maxresdefault.jpg"
+                },
+                {
+                    "id" : 4,
+                    "name" : "Go Back",
+                    "singer" : "SE SO NEON",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/-7BX4qJXSis/maxresdefault.jpg"
+                },
+                {
+                    "id" : 5,
+                    "name" : "Oh, Two Animals",
+                    "singer" : "Oh Chill",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/1CryiT-Skis/maxresdefault.jpg"
+                }
+            ]
+		},
+		{
+            "id" : 9,
+            "name" : "Best Modern Rock Album",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "Many Minutes in Seoul",
+                    "singer" : "9 And The Numbers",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxQGihfCU1u_Qx1P1qWgYMzzUZBbdTp9uDfEwkK2ExLbNZmpUa"
+                },
+                {
+                    "id" : 2,
+                    "name" : "THIRSTY",
+                    "singer" : "The Black Skirts",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://koreangrooves.files.wordpress.com/2019/03/81aicrlbyql._ss500_.jpg?w=500s"
+                },
+                {
+                    "id" : 3,
+                    "name" : "You've Never Had It So Good",
+                    "singer" : "Rock'N Roll Radio",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i1.wp.com/www.koreanindie.com/wp-content/uploads/2019/07/cropped-rocknroll-radio-youve-never-had-it-so-good.jpg?fit=1000%2C562&ssl=1 "
+                },
+                {
+                    "id" : 4,
+                    "name" : "Enlightenment",
+                    "singer" : "THORNAPPLE",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtltYRIVOxfrJwsdAlC_QvQM1sdWXCYy7Cco0fqhAyLdCMW6oO "
+                },
+                {
+                    "id" : 5,
+                    "name" : "Legend",
+                    "singer" : "Jannabi",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i1.wp.com/www.koreanindie.com/wp-content/uploads/2019/05/Jannabi_Legend.jpg?fit=1000%2C1000&ssl=1"
+                }
+            ]
+		},
+		{
+            "id" : 10,
+            "name" : "Best Modern Rock Song",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "Queen of Diamonds",
+                    "singer" : "The Black Skirts",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/a_tMEXd8Zow/maxresdefault.jpg"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Lingu",
+                    "singer" : "DECADENT",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/HHSmCQisKWs/hqdefault.jpg"
+                },
+                {
+                    "id" : 3,
+                    "name" : "TAKE ME HOME",
+                    "singer" : "Rock'N Roll Radio",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/XZ6YoLI87AA/maxresdefault.jpg"
+                },
+                {
+                    "id" : 4,
+                    "name" : "February",
+                    "singer" : "THORNAPPLE",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/s1PJD1xUdG4/maxresdefault.jpg"
+                },
+                {
+                    "id" : 5,
+                    "name" : "For Lovers Who Hesitate",
+                    "singer" : "Jannabi",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2019/04/Cover.jpg?fit=1500%2C1500&ssl=1"
+                }
+            ]
+		},
+		{
+            "id" : 11,
+            "name" : "Best Metal and Hardcore Album",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "Voices",
+                    "singer" : "Eighteen April",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/95/c6/9c/95c69cf7-557f-607e-0b58-df20c9772130/source/1400x1400bb.jpg"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Black Hole Tribute - Re-encounter The Miracle",
+                    "singer" : "Various Artists",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://static.tumblr.com/hbqviai/7KBlqu606/no_album_art.jpg"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Glorifying Suicide",
+                    "singer" : "Madmans Esprit",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://lyricstranslate.com/files/styles/large/public/XMqapbk8_400x400.jpg?itok=KxgzvMWL"
+                },
+                {
+                    "id" : 4,
+                    "name" : "Definition Of Method",
+                    "singer" : "Method",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://f4.bcbits.com/img/0018198498_10.jpg"
+                },
+                {
+                    "id" : 5,
+                    "name" : "FEATURES/CREATURES",
+                    "singer" : "CHAIN REACTION",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://m.media-amazon.com/images/I/A1Tu4wTePuL._SS500_.jpg"
+                }
+            ]
+		},
+		{
+            "id" : 12,
+            "name" : "Best Dance and Electronic Album",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "GENERASIAN",
+                    "singer" : "Lim Kim",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://thegoodtheweird.files.wordpress.com/2020/01/be7bb-generasian-lim-kim.jpg?w=1000&h=1000"
+                },
+                {
+                    "id" : 2,
+                    "name" : "re:FLEX*ion",
+                    "singer" : "NET GALA",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i1.sndcdn.com/avatars-000571242351-64wn56-t500x500.jpg"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Gookbo 3ho",
+                    "singer" : "Various Artists",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://static.tumblr.com/hbqviai/7KBlqu606/no_album_art.jpg"
+                },
+                {
+                    "id" : 4,
+                    "name" : "A Premature and Meaningless Confession",
+                    "singer" : "Jang Myungsun",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://m.media-amazon.com/images/I/71aEjknzW7L._SS500_.jpg"
+                }
+            ]
+		},
+		{
+            "id" : 13,
+            "name" : "Best Dance and Electronic Song",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "SAL-KI",
+                    "singer" : "Lim Kim",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://images.genius.com/6d18e9d3da815277af74029a9d03368e.1000x1000x1.png"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Quarrel",
+                    "singer" : "NET GALA",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i1.sndcdn.com/avatars-000571242351-64wn56-t500x500.jpg"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Starry Night",
+                    "singer" : "Peggy Gou",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/r_wwmmo6UGY/maxresdefault.jpg"
+                },
+                {
+                    "id" : 4,
+                    "name" : "Combat",
+                    "singer" : "Pierre Blanche",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/B8S3xvUQCYw/maxresdefault.jpg"
+                },
+                {
+                    "id" : 5,
+                    "name" : "Constant",
+                    "singer" : "Two Tone Shape",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i2.sndcdn.com/artworks-000492540414-egzvon-t120x120.jpg"
+                }
+            ]
+		},
+		{
+            "id" : 14,
+            "name" : "Best Rap and Hip Hop Album",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "Keung",
+                    "singer" : "C Jamm",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i2.wp.com/www.dkhhrnb.com/wp-content/uploads/2019/06/cjamm_n-e1560384971496.jpg?resize=743%2C400"
+                },
+                {
+                    "id" : 2,
+                    "name" : "The Stranger",
+                    "singer" : "E SENS",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ15nR4pNxNKv3Xd3uGftUdmi8I5BWZjOt31wYDRg10zeOv7JJg"
+                },
+                {
+                    "id" : 3,
+                    "name" : "BFOTY",
+                    "singer" : "FUTURISTIC SWAVER",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7YUm6WFt4LuffopdEsGdH5ZdYctAhO0tvz8PUbkv4MvxDF9Ui"
+                },
+                {
+                    "id" : 4,
+                    "name" : "SECOND LANGUAGE",
+                    "singer" : "XXX",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAdVBMVEUfISD///8AAAAYHRwIDQszNTSVlZUYGhmcnZ1MTEwQExL09PTIyMgaHRuzs7M6OzoiJSNdXV2FhYXY2dl0dHSpqam/v78TFRSioqLw8PAACAXS0tKNj45fYWBDREQiIiIoKinl5eVKS0ttbm1UU1NhYGHg4uEVGIMlAAACj0lEQVR4nO3d626qUBBAYR1RLAhWFC+oPXq8vP8j1oI5P84kjZuy3WO6vgegezEjmtTEXg8AAAAAAAAAAAAAgO9k7kIf2dG7u9BHdjIY9t2No9DHdtCqcPRqhZPR2EH5goVjiR4nH69Y6HLg+I1CYyhUKDSHQoVCcyhUKDSHQoVCcyhUKDSHQoVCcyhUKDSHQoVCcyhUKDSHQoVCcyhUKDSHQoVCcyhUKDSHQoVCcyhUKDSHQoVCcyhUKDSHQoVCcyhUKDSHQoVCcyhUKDSHQoVCcyhUKDSHQoVCcyhUKDSHQoVCcyhUKDSHQoVCcyhUKDSHQoVCcyhUKDSHQoVCcyhUKDSHQoVCcyhUKDSHQoVCcyhUKDTnlxRK8rhX+xWWTP70+8vCxajf30kc+uAPWslhdGzxa0hpfpbE/i93xVV02rbIaxx377IKnfCdLIr+lptmHpeZm/N97pNTZnZbVzIs5vUpt0VPVrGjSPZ5fXeO5Vkie9uaVXJapvUB1x+StLrG7QVcNBs+N7etiRzWzZItL0k1GLS9TpbIdL1pLrSXysq2xhIvmlt/3VU/vvW3Zdgv66tt1tMqan2zOpNF1SyvtzMt36Sb9+xYev9e0IfAj53bw2V3bR6Bi16HZ8kiOZf12m/y27YGe+zEcprct/MgHlyabT2ODxIocJY279Pbssy9KPP7X8jDJCZF688urq7hCtMnuL17zMMVFsOpd1kasnARtfjhX0cStvAJn60CF7b7BOqEGfrDDLtCoT9saVeYoT/MsCvM0B9m2BUK/WFLu8IM/WGGXWGG/jDDrlDoD1vaFWboz1fhycd/Rv+3CVm4nfi3DDrDJ6HQl9jhC6Q/Y+v7UQAAAAAAAMBv9QncbGMQbbhbAQAAAABJRU5ErkJggg=="
+                },
+                {
+                    "id" : 5,
+                    "name" : "Orientation",
+                    "singer" : "CHOILB",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCwqu8AuF9wvsgzTPo5rN4XkMq4B5LYM-XBWrT2X--z8RuOJpk"
+                }
+            ]
+		},
+		{
+            "id" : 15,
+            "name" : "Best Rap and Hip Hop Song ",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "Son of a",
+                    "singer" : "E SENS",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ15nR4pNxNKv3Xd3uGftUdmi8I5BWZjOt31wYDRg10zeOv7JJg"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Why Are You So Noisy?",
+                    "singer" : "MUSHVENOM",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i2.wp.com/www.dkhhrnb.com/wp-content/uploads/2019/10/Mushvenom-e1570827399492.jpg?resize=807%2C400"
+                },
+                {
+                    "id" : 3,
+                    "name" : "GOTTASADAE",
+                    "singer" : "BewhY",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i0.wp.com/hiphopkr.com/wp-content/uploads/2019/08/bewhy_gottasadae.jpg?fit=760%2C760&ssl=1"
+                },
+                {
+                    "id" : 4,
+                    "name" : "Idungivao",
+                    "singer" : "BILL STAX",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/bYA_USqmqm0/maxresdefault.jpg"
+                },
+                {
+                    "id" : 5,
+                    "name" : "Don't Call Me (Prod. BRLLNT)",
+                    "singer" : "YUMDDA",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://hiphopkr.com/wp-content/uploads/2019/05/yumdda-dont-call-me.jpg"
+                }
+            ]
+		},
+		{
+            "id" : 16,
+            "name" : "Best R&B and Soul Album",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "Love Part 1",
+                    "singer" : "Colde",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://images.genius.com/aad26f37fb5b95c245f7e5ab38f81205.1000x1000x1.jpg"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Not My Fault",
+                    "singer" : "dress, sogumm",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://hiphopkr.com/wp-content/uploads/2019/09/dress-sogumm-not-my-fault.jpg"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Sobrighttttttt",
+                    "singer" : "sogumm",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i0.wp.com/hiphopkr.com/wp-content/uploads/2019/10/sogumm-Sobrightttttttt.jpg?fit=1000%2C1000&ssl=1"
+                },
+                {
+                    "id" : 4,
+                    "name" : "The Misfit",
+                    "singer" : "Samuel Seo",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i1.wp.com/www.dkhhrnb.com/wp-content/uploads/2019/11/The-misfitsn-e1573363227364.jpg?resize=1079%2C752"
+                },
+                {
+                    "id" : 5,
+                    "name" : "OO DA DA",
+                    "singer" : "SUMIN",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://www.generasia.com/w/images/thumb/9/92/SUMIN_-_OO_DA_DA_promo.jpg/550px-SUMIN_-_OO_DA_DA_promo.jpg"
+                }
+            ]
+		},
+		{
+            "id" : 17,
+            "name" : "Best R&B and Soul Song",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "WA-R-R",
+                    "singer" : "Colde",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://seoulbeats.com/wp-content/uploads/2019/06/20190602_seoulbeats_colde_5.jpg"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Mama, See",
+                    "singer" : "Jclef",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i0.wp.com/hiphopkr.com/wp-content/uploads/2019/07/jclef-mama-see.jpg?fit=1024%2C1024&ssl=1"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Night and Day",
+                    "singer" : "Brown Eyed Soul",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://ytimg.googleusercontent.com/vi/AMoKZkqEZ28/mqdefault.jpg"
+                },
+                {
+                    "id" : 4,
+                    "name" : "CLASSIC",
+                    "singer" : "Sunwoo Jung-A",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://lh3.googleusercontent.com/proxy/8OnN1V0VArTg1EDS7DR-2dC9ASMT-1wD0Ft6aah2-TUrsRcI3B9Ikfp0WFK9AXMv0BUL-LdMm-k9kfqEAgrSJMVLdH5pLyiPN5E6kzt_xRsmfsTFpxqAn2oj28Hdi3n5"
+                },
+                {
+                    "id" : 5,
+                    "name" : "STARDUST",
+                    "singer" : "SUMIN",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/MRMVAKOK8bE/maxresdefault.jpg"
+                }
+            ]
+		},
+		{
+            "id" : 18,
+            "name" : "Best Folk Album",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "The World Without You",
+                    "singer" : "Emon",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/_2aIR21XUYs/maxresdefault.jpg"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Song from Far Away",
+                    "singer" : "Yeoyu and Seolbin",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/EIwTjVAqyNI/maxresdefault.jpg"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Sad Dreamy Funny",
+                    "singer" : "Lazy Blood",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://images-na.ssl-images-amazon.com/images/I/311P%2BjejPEL._SX331_BO1,204,203,200_.jpg"
+                },
+                {
+                    "id" : 4,
+                    "name" : "Lee Joo Young",
+                    "singer" : "Lee Joo Young",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://asset.kompas.com/crops/6pLh9MEUEucYxrLw2h2Ny3KdVow=/0x8:514x351/750x500/data/photo/2020/02/18/5e4b7a8286a4c.jpg"
+                },
+                {
+                    "id" : 5,
+                    "name" : "Year of Kim Il-sung's Death",
+                    "singer" : "Chun Yongsung",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://m.media-amazon.com/images/I/91+d9PXpLaL._SS500_.jpg"
+                }
+            ]
+		},
+		{
+            "id" : 19,
+            "name" : "Best Folk Song",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "New Day",
+                    "singer" : "KwonTree",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://images.genius.com/20fbb0112be5776a417f1ac811980129.999x999x1.jpg"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Go Yoonsik Go",
+                    "singer" : "Lazy Blood",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://images-na.ssl-images-amazon.com/images/I/311P%2BjejPEL._SX331_BO1,204,203,200_.jpg"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Heart",
+                    "singer" : "Lee Joo Young",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://asset.kompas.com/crops/6pLh9MEUEucYxrLw2h2Ny3KdVow=/0x8:514x351/750x500/data/photo/2020/02/18/5e4b7a8286a4c.jpg"
+                },
+                {
+                    "id" : 4,
+                    "name" : "Nameless",
+                    "singer" : "Jeongmilla",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/J5DC2w6RVNQ/maxresdefault.jpg"
+                },
+                {
+                    "id" : 5,
+                    "name" : "Havy Snow Watch",
+                    "singer" : "Chun Yong Sung",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://m.media-amazon.com/images/I/91+d9PXpLaL._SS500_.jpg"
+                }
+            ]
+		},
+		{
+            "id" : 20,
+            "name" : "Best Jazz Album",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "Gunsan Gaka",
+                    "singer" : "Trio Works",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/UAqJcvNd4ro/sddefault.jpg"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Spirit Advance Unit",
+                    "singer" : "Kim Oki",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/62/cd/b6/62cdb6d4-a0b0-83dd-588f-87862c6cc913/pr_source.png/800x800bb.jpeg"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Immersion",
+                    "singer" : "Youn Sun Nah",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://img.discogs.com/lBX9GJvaHTqbXIkcKTy_oFD93yI=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13361229-1552917939-8749.jpeg.jpg"
+                },
+                {
+                    "id" : 4,
+                    "name" : "JB Liberation Amalgamation",
+                    "singer" : "Jangeun Bae and Liberation Amalgamation",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKlboPR3_ppGARkrzAPGdXWlzXiCdiUeRrrrPt3H9OUKPcW_ig"
+                },
+                {
+                    "id" : 5,
+                    "name" : "Tribute",
+                    "singer" : "Youngjoo Song, Sunny Kim",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://images.squarespace-cdn.com/content/v1/5d956dc0b06c703e519d483c/1570578908874-L2HF26K3M7J8G6R1UXTG/ke17ZwdGBToddI8pDm48kFqtnuG8Ph1mnTlw7-0XGwZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTm8CnKHo2wjeO4u63FO9raGEmQm3QoamqeB5ZpCgqlNgQ4az-3_BXPP2eSJ7vMGNZE/DSC03434.jpg"
+                }
+            ]
+		},
+		{
+            "id" : 21,
+            "name" : "Best Crossover Album",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "Version",
+                    "singer" : "NST & The Soul meets Kim Yulhee",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://img.discogs.com/h9Al3HNZ3Ft47EFW87TKUMdcSII=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13273007-1551133329-2048.jpeg.jpg"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Karma",
+                    "singer" : "Black String",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/oclqgXrfJKA/maxresdefault.jpg"
+                },
+                {
+                    "id" : 3,
+                    "name" : "HOME",
+                    "singer" : "Jungmin Seo",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.kfs.io/album/global/58230190,0v1/fit/500x500.jpg"
+                },
+                {
+                    "id" : 4,
+                    "name" : "Topology",
+                    "singer" : "SB Circle",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://images-eu.ssl-images-amazon.com/images/I/51uyVe-PlHL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_.jpg"
+                },
+                {
+                    "id" : 5,
+                    "name" : "DMZ",
+                    "singer" : "Ji Park",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/YPUeaX2Fi6c/hqdefault.jpg"
+                }
+            ]
+		},
+		{
+            "id" : 22,
+            "name" : "Best Jazz and Crossover Performance",
+            "year" : 2020,
+            "nominations" : [
+                {
+                    "id" : 1,
+                    "name" : "The Real Blue",
+                    "singer" : "Pureum Jin",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://images-na.ssl-images-amazon.com/images/I/81TqIUHNzWL._SL1500_.jpg"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Gunsan Gaka",
+                    "singer" : "Trio Works",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://img.discogs.com/gTjz9fZ8Rpw0dkJRGJP9GLzZ8gg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14671943-1579347410-7832.jpeg.jpg"
+                },
+                {
+                    "id" : 3,
+                    "name" : "JB Liberation Amalgamation",
+                    "singer" : "Jangeun Bae and Liberation Amalgamation",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKlboPR3_ppGARkrzAPGdXWlzXiCdiUeRrrrPt3H9OUKPcW_ig"
+                },
+                {
+                    "id" : 4,
+                    "name" : "Karma",
+                    "singer" : "Black String",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/oclqgXrfJKA/maxresdefault.jpg"
+                },
+                {
+                    "id" : 5,
+                    "name" : "Something Good Is Good",
+                    "singer" : "Lee Myoung Gun Trio",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.scdn.co/image/ab67616d0000b273a2246a63a2427c5e897167f2"
+                },
+				{
+                    "id" : 6,
+                    "name" : "Invisible",
+                    "singer" : "Minki",
+                    "vote" : 0 ,
+                    "percentage" : "0%",
+                    "url" : "https://i.ytimg.com/vi/R6mCt4nVRZw/maxresdefault.jpg"
+                }
+            ]
+		}
+    ]
+}
